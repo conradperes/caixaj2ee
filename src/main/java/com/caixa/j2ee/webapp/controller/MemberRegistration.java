@@ -49,6 +49,6 @@ public class MemberRegistration {
    @PostConstruct
    public void initNewMember() {
       newMember = new Member();
-      String a="banana";
+      String a="banana e maçã";
    }
 }
